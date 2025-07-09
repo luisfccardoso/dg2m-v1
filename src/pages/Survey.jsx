@@ -31,8 +31,7 @@ const Main = () => {
         <p>
           Esta pesquisa é parte do <strong>Mestrado Profissional em Computação Aplicada da Universidade de Brasília (UnB)</strong>, 
           orientada pela professora <strong>Edna Canedo</strong>. 
-          O objetivo é validar uma proposta de <strong>Modelo de Maturidade da Governança de Dados (DG2M)</strong>, 
-          desenvolvida ao longo da minha trajetória acadêmica.
+          O objetivo é validar uma proposta de <strong>Modelo de Maturidade da Governança de Dados (DG2M)</strong>.
         </p>
 
         <p>
